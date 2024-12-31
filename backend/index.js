@@ -13,10 +13,6 @@ dotenv.config();
 // all routes
 import authRoute from "./routes/authRoute.js";
 import messageRoute from "./routes/messageRoute.js"
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
   
 // middlewares
 app.use(bodyParser.json({ limit: "50mb" })); // Increase limit for JSON bodies
