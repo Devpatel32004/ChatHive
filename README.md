@@ -1,4 +1,4 @@
-
+<div align="left">
 # ✨ ChatHive – Real-Time Chat Application
 
 ChatHive is a feature-rich, real-time chat application designed to bring seamless communication with modern UI and advanced functionalities.
@@ -58,3 +58,4 @@ npm run build
 ```bash
 npm start
 ```
+</div>
