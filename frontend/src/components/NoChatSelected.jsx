@@ -9,7 +9,7 @@ const NoChatSelected = () => {
           <div className='p-3 sm:p-4 bg-primary/20 rounded-lg'><MessageSquare className='size-10 sm:size-12 text-primary' /></div>
         </div>
         <div className='font-bold text-xl'>
-          Welcome to Chatty!
+          Welcome to ChatHive
         </div>
         <p className='text-base-content/60'>
           Select a conversation from the sidebar to start chatting
