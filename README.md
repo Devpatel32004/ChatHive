@@ -28,8 +28,6 @@ ChatHive is a feature-rich, real-time chat application designed to bring seamles
 
 ## 🚀 Setup Instructions
 
-Install my-project with npm
-
 #### Configure Environment Variables
 
 ```bash
