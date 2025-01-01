@@ -30,13 +30,7 @@ ChatHive is a feature-rich, real-time chat application designed to bring seamles
 
 Install my-project with npm
 
-#### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/chathive.git
-cd chathive
-```
-#### 2. Configure Environment Variables
+#### Configure Environment Variables
 
 ```bash
 MONGODB_URI=...
@@ -50,13 +44,13 @@ CLOUDINARY_API_SECRET=...
 NODE_ENV=development
 ```  
 
-#### 3. Start the app
+#### Start the app
 
 ```bash
 npm run build
 ```
 
-#### 4. Clone the Repository
+#### Clone the Repository
 
 ```bash
 npm start
